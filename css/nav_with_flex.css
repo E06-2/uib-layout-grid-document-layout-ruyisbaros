@@ -1,0 +1,15 @@
+/* -------Nav updated----- */
+
+.nav {
+  display: block;
+  padding: 0.5rem 10%;
+}
+
+.nav img {
+  display: block;
+}
+
+.nav .list {
+  display: flex;
+  gap: 5rem;
+}
